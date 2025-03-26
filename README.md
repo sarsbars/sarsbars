@@ -8,12 +8,14 @@ Before entering the Software Developer program at Manitoba Institute of Trades a
 
 Growing up, I loved video games and tech. Taking computer science at the University of Manitoba sparked my passion—though life had other plans. My passion for coding never faded. I pursued my dreams at MITT and now create impactful solutions in the ever-evolving tech world.
 
-![Javascript Badge](https://img.shields.io/badge/Javascript-6bda6b)
-![HTML Badge](https://img.shields.io/badge/HTML-42a87b)
-![CSS Badge](https://img.shields.io/badge/CSS-f9e181)
-![SQL Badge](https://img.shields.io/badge/SQL-f1bb17)
-![C# Badge](https://img.shields.io/badge/C%23-30c6fd)
-![React Badge](https://img.shields.io/badge/React-098cfb)
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-6bda6b" alt="Javascript Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/HTML-42a87b" alt="HTML Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/CSS-f9e181" alt="CSS Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/SQL-f1bb17" alt="SQL Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/C%23-30c6fd" alt="C# Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/React-098cfb" alt="React Badge" style="margin: 0 10px;">
+</p>
 
 <p align="center">
   <a href="https://github.com/sarsbars/github-readme-stats">
