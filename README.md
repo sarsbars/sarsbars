@@ -7,3 +7,9 @@ Hi, I’m Sarah Mitchell a recent graduate of the Software Developer program at 
 Before entering the Software Developer program at Manitoba Institute of Trades and Technology I worked as an Educational Assistant for 10 years and loved helping students learn and grow. These experiences taught me patience, adaptability, and the importance of clear communication.
 
 Growing up, I loved video games and tech. Taking computer science at the University of Manitoba sparked my passion—though life had other plans. My passion for coding never faded. I pursued my dreams at MITT and now create impactful solutions in the ever-evolving tech world.
+https://img.shields.io/badge/Javascript-6bda6b
+https://img.shields.io/badge/HTML-42a87b
+https://img.shields.io/badge/CSS-f9e181
+https://img.shields.io/badge/SQL-f1bb17
+https://img.shields.io/badge/C#-30c6fd
+https://img.shields.io/badge/React-098cfb
