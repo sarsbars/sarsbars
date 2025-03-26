@@ -1,3 +1,5 @@
+![My GitHub 1 Image](./github1.png)
+
 # About me
 
 Hi, I’m Sarah Mitchell a recent graduate of the Software Developer program at Manitoba Institute of Trades and Technology with a strong foundation in full-stack development. I’m passionate about building innovative solutions and ready to contribute as a Junior Full-Stack Developer.
