@@ -8,6 +8,7 @@ Before entering the Software Developer program at Manitoba Institute of Trades a
 
 Growing up, I loved video games and tech. Taking computer science at the University of Manitoba sparked my passion—though life had other plans. My passion for coding never faded. I pursued my dreams at MITT and now create impactful solutions in the ever-evolving tech world.
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-6bda6b" alt="Javascript Badge" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/HTML-42a87b" alt="HTML Badge" style="margin: 0 10px;">
