@@ -11,5 +11,5 @@ Growing up, I loved video games and tech. Taking computer science at the Univers
 ![HTML Badge](https://img.shields.io/badge/HTML-42a87b)
 ![CSS Badge](https://img.shields.io/badge/CSS-f9e181)
 ![SQL Badge](https://img.shields.io/badge/SQL-f1bb17)
-![C# Badge](https://img.shields.io/badge/C#-30c6fd)
+![C# Badge](https://img.shields.io/badge/C%23-30c6fd)
 ![React Badge](https://img.shields.io/badge/React-098cfb)
