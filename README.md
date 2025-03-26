@@ -1,4 +1,4 @@
-![My GitHub 1 Image](./software_text.jpg)
+![My GitHub 1 Image](./software_text_1.jpg)
 
 # About me
 
