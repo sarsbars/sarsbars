@@ -19,7 +19,7 @@ Growing up, I loved video games and tech. Taking computer science at the Univers
 
 <p align="center">
   <a href="https://github.com/sarsbars/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarsbars&show_icons=false&theme=radical&hide=stars,prs,issues,contribs" alt="sarsbars GitHub Commits" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarsbars&show_icons=true&theme=radical" alt="sarsbars GitHub Stats" />
   </a>
   <a href="https://github.com/sarsbars/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsbars&layout=compact&theme=radical" alt="sarsbars Top Langs" />
