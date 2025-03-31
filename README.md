@@ -10,15 +10,15 @@ Growing up, I loved video games and tech. Taking computer science at the Univers
 
 ## My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-cbb8d5" alt="Javascript Badge" style="margin: 0 10px; color: white;">
+  <img src="https://img.shields.io/badge/Javascript-CBB8D5" alt="Javascript Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/HTML-F8SD71" alt="HTML Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge" style="margin: 0 10px; color: white;">
-  <img src="https://img.shields.io/badge/SQL-cbb8d5" alt="SQL Badge" style="margin: 0 10px; color: white;">
+  <img src="https://img.shields.io/badge/SQL-CBB8D5" alt="SQL Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/React-A7DFFB" alt="React Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/Python-EDA594" alt="Python Badge" style="margin: 0 10px; color: white;">
-  <img src="https://img.shields.io/badge/Java-cbb8d5" alt="Java Badge" style="margin: 0 10px; color: white;">
+  <img src="https://img.shields.io/badge/Java-CBB8D5" alt="Java Badge" style="margin: 0 10px; color: white;">
 </p>
 
 ## My Stats
