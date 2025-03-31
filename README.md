@@ -10,15 +10,15 @@ Growing up, I loved video games and tech. Taking computer science at the Univers
 
 ## My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-cbb8d5" alt="Javascript Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/HTML-F8SD71" alt="HTML Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/SQL-cbb8d5" alt="SQL Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/React-A7DFFB" alt="React Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Python-EDA594" alt="Python Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Jave-cbb8d5" alt="Java Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Javascript-cbb8d5?style=for-the-badge&labelColor=cbb8d5&color=white" alt="Javascript Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/HTML-F8SD71?style=for-the-badge&labelColor=F8SD71&color=white" alt="HTML Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/CSS-A7DFFB?style=for-the-badge&labelColor=A7DFFB&color=white" alt="CSS Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/API-EDA594?style=for-the-badge&labelColor=EDA594&color=white" alt="APIs Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/SQL-cbb8d5?style=for-the-badge&labelColor=cbb8d5&color=white" alt="SQL Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/C%23-F8CD71?style=for-the-badge&labelColor=F8CD71&color=white" alt="C# Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/React-A7DFFB?style=for-the-badge&labelColor=A7DFFB&color=white" alt="React Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Python-EDA594?style=for-the-badge&labelColor=EDA594&color=white" alt="Python Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Java-cbb8d5?style=for-the-badge&labelColor=cbb8d5&color=white" alt="Java Badge" style="margin: 0 10px;">
 </p>
 
 ## My Stats
