@@ -12,7 +12,7 @@ Growing up, I loved video games and tech. Taking computer science at the Univers
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-CBB8D5" alt="Javascript Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge" style="margin: 0 10px; color: white;">
-  <img src="https://img.shields.io/badge/HTML-F8SD71" alt="HTML Badge" style="margin: 0 10px; color: white;">
+  <img src="https://img.shields.io/badge/HTML-F8CD71" alt="HTML Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/SQL-CBB8D5" alt="SQL Badge" style="margin: 0 10px; color: white;">
   <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge" style="margin: 0 10px; color: white;">
