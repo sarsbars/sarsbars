@@ -1,4 +1,4 @@
-![My GitHub 1 Image](./software_text_1.jpg)
+![My GitHub 1 Image](./github-header-purple.png)
 
 # About me
 
@@ -8,21 +8,39 @@ Before entering the Software Developer program at Manitoba Institute of Trades a
 
 Growing up, I loved video games and tech. Taking computer science at the University of Manitoba sparked my passion—though life had other plans. My passion for coding never faded. I pursued my dreams at MITT and now create impactful solutions in the ever-evolving tech world.
 
-
+## My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-6bda6b" alt="Javascript Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/HTML-42a87b" alt="HTML Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/CSS-f9e181" alt="CSS Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/SQL-f1bb17" alt="SQL Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/C%23-30c6fd" alt="C# Badge" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/React-098cfb" alt="React Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Javascript-C4B805" alt="Javascript Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/HTML-F8SD71" alt="HTML Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/SQL-C4B805" alt="SQL Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/React-A7DFFB" alt="React Badge" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Python-EDA594" alt="Python Badge" style="margin: 0 10px;">
+</p>
+
+## My Stats
+<p align="center">
+  <a href="https://github.com/sarsbars/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarsbars&show_icons=true&theme=radical" alt="sarsbars GitHub Stats" width="600" height="300" />
+  </a>
+  <a href="https://github.com/sarsbars/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsbars&layout=compact&theme=radical" alt="sarsbars Top Langs" width="400" height="200" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sarsbars/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarsbars&show_icons=true&theme=radical" alt="sarsbars GitHub Stats" />
-  </a>
-  <a href="https://github.com/sarsbars/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsbars&layout=compact&theme=radical" alt="sarsbars Top Langs" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarsbars&theme=radical" alt="sarsbars GitHub Streak" />
 </p>
+
+<p align="center">
+<img src="https://ghchart.rshah.org/sarsbars" alt="sarsbars's GitHub chart" />
+</p>
+
+## Profile Views 
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sarsbars&label=Profile%20views&color=0e75b6&style=flat" alt="sarsbars profile views" />
+</p>
+
