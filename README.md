@@ -2,7 +2,19 @@
 
 # Sarah Mitchell - Junior Full-Stack Developer Building Robust Solutions with C# and Databases
 
-Skills: C#, .NET, SQL, JavaScript, HTML, CSS, Git
+## My Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-CBB8D5" alt="Javascript Badge">
+  <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/HTML-F8CD71" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge">
+  <img src="https://img.shields.io/badge/SQL-CBB8D5" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge">
+  <img src="https://img.shields.io/badge/React-A7DFFB" alt="React Badge">
+  <img src="https://img.shields.io/badge/Python-EDA594" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Java-CBB8D5" alt="Java Badge">
+</p>
 
 # What's Inspiring Me!
 
@@ -17,19 +29,6 @@ Hi, I'm Sarah Mitchell, a recent graduate from the Software Developer program at
 I'm eager to collaborate on innovative, data-driven projects and bring value to dynamic teams. Feel free to reach out to discuss opportunities, share ideas, or connect over a love for coding and databases!
 🔗 LinkedIn: [Sarah Mitchell] (https://www.linkedin.com/in/sarah-mitchell-b1a773345/)
 
-## My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-CBB8D5" alt="Javascript Badge">
-  <img src="https://img.shields.io/badge/CSS-A7DFFB" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/HTML-F8CD71" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/API-EDA594" alt="APIs Badge">
-  <img src="https://img.shields.io/badge/SQL-CBB8D5" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/C%23-F8CD71" alt="C# Badge">
-  <img src="https://img.shields.io/badge/React-A7DFFB" alt="React Badge">
-  <img src="https://img.shields.io/badge/Python-EDA594" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Java-CBB8D5" alt="Java Badge">
-</p>
 
 
 ## My Stats
