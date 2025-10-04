@@ -24,10 +24,22 @@ I'm captivated by the almost magical ability of programmers to create something 
 
 Hi, I'm Sarah Mitchell, a recent graduate from the Software Developer program at Manitoba Institute of Trades and Technology, specializing in full-stack development with a focus on C#, .NET, and SQL. With a strong foundation in building data-driven applications, I thrive on working with databases and leveraging numbers to create efficient solutions. My 10 years as an Educational Assistant taught me patience, adaptability, and clear communication, skills I now use to deliver user-focused applications that solve complex problems.
 
+# My Projects
+
+Winterpeg University Website: A collaborative final project for Web Development SD-100, creating a static website for a fictional university with Home, About Us, and Contact Us pages. Use Case: Serves as an informational hub for prospective students and faculty, providing easy access to university details, contact forms for inquiries, and responsive design for mobile users seeking quick information on the go.
+
+Professional Portfolio: My personal portfolio showcasing software development skills, built as the final project for Technical Writing Skills. Use Case: Acts as a digital resume for job applications, highlighting proficiencies and projects to potential employers, with infinite scroll animations to engage visitors and demonstrate technical capabilities in a visually dynamic way.
+
+Kitty Chowdown Typing Game: An interactive typing speed game developed for Object Oriented JavaScript, where users type words before time runs out, featuring dynamic cat illustrations. Use Case: Helps users improve typing skills through gamified practice, ideal for students or professionals aiming to boost productivity, with high score tracking to motivate repeated play and skill progression.
+
+Customizing Auth0 Login Forms Guide: A comprehensive developer's guide on Auth0 customization options, co-created with Ashedzi Solomon. Use Case: Assists developers in tailoring authentication interfaces for better branding and user experience, providing step-by-step instructions to integrate custom fields or styles in apps, saving time on trial-and-error during implementation.
+
+
 # Let's Connect!
 
 I'm eager to collaborate on innovative, data-driven projects and bring value to dynamic teams. Feel free to reach out to discuss opportunities, share ideas, or connect over a love for coding and databases!
-🔗 LinkedIn: [Sarah Mitchell] (https://www.linkedin.com/in/sarah-mitchell-b1a773345/)
+
+🔗 LinkedIn: [Sarah Mitchell](https://www.linkedin.com/in/sarah-mitchell-b1a773345/)
 
 
 
