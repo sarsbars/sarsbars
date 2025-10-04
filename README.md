@@ -1,12 +1,21 @@
 ![My GitHub 1 Image](./github-header-purple.png)
 
-# About me
+#Sarah Mitchell - Junior Full-Stack Developer Building Robust Solutions with C# and Databases
 
-Hi, I’m Sarah Mitchell a recent graduate of the Software Developer program at Manitoba Institute of Trades and Technology with a strong foundation in full-stack development. I’m passionate about building innovative solutions and ready to contribute as a Junior Full-Stack Developer.
+Skills: C#, .NET, SQL, JavaScript, HTML, CSS, Git
 
-Before entering the Software Developer program at Manitoba Institute of Trades and Technology I worked as an Educational Assistant for 10 years and loved helping students learn and grow. These experiences taught me patience, adaptability, and the importance of clear communication.
+#What's Inspiring Me!
 
-Growing up, I loved video games and tech. Taking computer science at the University of Manitoba sparked my passion—though life had other plans. My passion for coding never faded. I pursued my dreams at MITT and now create impactful solutions in the ever-evolving tech world.
+I'm captivated by the almost magical ability of programmers to create something out of nothing—turning lines of code into functional, impactful applications. My love for databases and SQL drives me to design systems that organize and transform data into meaningful insights. I'm excited to explore advanced .NET frameworks and database optimization techniques to build seamless, scalable solutions that make a difference.
+
+#About Me
+
+Hi, I'm Sarah Mitchell, a recent graduate from the Software Developer program at Manitoba Institute of Trades and Technology, specializing in full-stack development with a focus on C#, .NET, and SQL. With a strong foundation in building data-driven applications, I thrive on working with databases and leveraging numbers to create efficient solutions. My 10 years as an Educational Assistant taught me patience, adaptability, and clear communication, skills I now use to deliver user-focused applications that solve complex problems.
+
+#Let's Connect!
+
+I'm eager to collaborate on innovative, data-driven projects and bring value to dynamic teams. Feel free to reach out to discuss opportunities, share ideas, or connect over a love for coding and databases!
+🔗 LinkedIn: [Sarah Mitchell] (https://www.linkedin.com/in/sarah-mitchell-b1a773345/)
 
 ## My Skills
 
