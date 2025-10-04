@@ -1,18 +1,18 @@
 ![My GitHub 1 Image](./github-header-purple.png)
 
-#Sarah Mitchell - Junior Full-Stack Developer Building Robust Solutions with C# and Databases
+# Sarah Mitchell - Junior Full-Stack Developer Building Robust Solutions with C# and Databases
 
 Skills: C#, .NET, SQL, JavaScript, HTML, CSS, Git
 
-#What's Inspiring Me!
+# What's Inspiring Me!
 
 I'm captivated by the almost magical ability of programmers to create something out of nothing—turning lines of code into functional, impactful applications. My love for databases and SQL drives me to design systems that organize and transform data into meaningful insights. I'm excited to explore advanced .NET frameworks and database optimization techniques to build seamless, scalable solutions that make a difference.
 
-#About Me
+# About Me
 
 Hi, I'm Sarah Mitchell, a recent graduate from the Software Developer program at Manitoba Institute of Trades and Technology, specializing in full-stack development with a focus on C#, .NET, and SQL. With a strong foundation in building data-driven applications, I thrive on working with databases and leveraging numbers to create efficient solutions. My 10 years as an Educational Assistant taught me patience, adaptability, and clear communication, skills I now use to deliver user-focused applications that solve complex problems.
 
-#Let's Connect!
+# Let's Connect!
 
 I'm eager to collaborate on innovative, data-driven projects and bring value to dynamic teams. Feel free to reach out to discuss opportunities, share ideas, or connect over a love for coding and databases!
 🔗 LinkedIn: [Sarah Mitchell] (https://www.linkedin.com/in/sarah-mitchell-b1a773345/)
