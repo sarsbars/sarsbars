@@ -18,7 +18,7 @@
 
 # What's Inspiring Me!
 
-I'm captivated by the almost magical ability of programmers to create something out of nothing—turning lines of code into functional, impactful applications. My love for databases and SQL drives me to design systems that organize and transform data into meaningful insights. I'm excited to explore advanced .NET frameworks and database optimization techniques to build seamless, scalable solutions that make a difference.
+I'm captivated by the almost magical ability of programmers to create something out of nothing; turning lines of code into functional, impactful applications. My love for databases and SQL drives me to design systems that organize and transform data into meaningful insights. I'm excited to explore advanced .NET frameworks and database optimization techniques to build seamless, scalable solutions that make a difference.
 
 # About Me
 
